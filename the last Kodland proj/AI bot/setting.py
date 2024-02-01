@@ -1,1 +1,2 @@
-TOKEN = 'MTE0MTU5Nzk5MTk5Njc1NjA0MA.GUSGxG.LE26xNY0Fqr3nAJicnj_n6WULc7CXNdpj-HROU'
+#input your token
+TOKEN = ''
